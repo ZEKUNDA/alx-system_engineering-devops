@@ -1,2 +1,2 @@
 #!/bin/bash
-id -u -n
+_user="$(id -u -n)"
